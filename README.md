@@ -1,0 +1,2 @@
+# EBAC_Projeto_Parceria
+Projeto_Perpetuação_das_Desigualdades_no_Mercado_de_Dados
