@@ -1,2 +1,2 @@
 # EBAC_Projeto_Parceria
-Projeto_Perpetuação_das_Desigualdades_no_Mercado_de_Dados
+Projeto_Pesquisa Nacional por Amostra de Domicílios_IBGE
