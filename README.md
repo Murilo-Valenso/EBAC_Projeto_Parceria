@@ -5,6 +5,6 @@
 
 ●  As atividades desenvolvidas foram a coleta, exploração, limpeza, manipulação, enriquecimento e visualização desses dados, com a finalidade de gerarmos importantes insights sobre as características gerais da população, de acordo com sua fonte de renda.
 
-●	Neste projeto, trabalhamos com Machine Learning usando técnica Estatística através do modelo de Regressão Linear. Também, utilizamos os pacotes e bibliotecas (pandas, numpy, sklearn e seaborn), tendo como objetivo prever os resultados e entender a relação entre as variáveis dos dados analisados.
+●	Neste projeto, trabalhamos com Machine Learning usando técnica Estatística através do modelo de Regressão Linear. Também, utilizamos os pacotes e bibliotecas (pandas, numpy, sklearn e seaborn), com o objetivo de prever os resultados e entender a relação entre as variáveis dos dados analisados.
 
 
